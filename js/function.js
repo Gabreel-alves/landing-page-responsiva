@@ -1,4 +1,4 @@
-window.onload = function(){
+/* window.onload = function(){
     
     var map;
 
@@ -35,4 +35,4 @@ window.onload = function(){
 
 initialize();
 addMarker(-27.616637, -48.5923228,'', 'meu endereco personalizado',true)
-}
+} */
